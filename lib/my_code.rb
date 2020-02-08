@@ -11,7 +11,7 @@ end
 def reduce(array, sv = nil)
   if sv 
     sum = sv
-    inex = 0 
+    index = 0 
   else
     sum = array[0]
     index = 0 
