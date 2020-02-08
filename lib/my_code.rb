@@ -10,5 +10,10 @@ end
 
 def reduce(array, sv = nil)
   if sv 
-    sum 
+    sum = sv
+  else
+    index = 0 
+  end 
+  while index < array.length 
+  sum = sum + 
 end  
